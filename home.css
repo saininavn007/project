@@ -1,0 +1,219 @@
+body  {
+    background-image: url("");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+   
+  }
+.class1{
+    margin-top: 2.5cm;
+    font-family: LetteraTextLL;
+    font-weight: 600;
+    font-size: 4.25rem;
+    --text-opacity: 1;
+    color:black
+   }
+.class2{
+    font-weight: 200;
+    color: #767676;
+   }
+img{
+    position: absolute;
+    top:20px;
+    right:100px;
+    display: block;
+    width: 13cm;
+    height: 21cm;
+   
+}
+div{
+    margin-left: 1.5cm;
+}
+
+td{
+    padding: 20px;
+    padding-bottom: 5px;
+}
+.flag{
+    width: .7cm;
+    height: .5cm;
+    position: static;
+    padding-top: 0cm;
+}
+.flag2{
+   margin-left: 1cm;
+   margin-top:-.57cm ;
+   color: gray;
+   font-weight: 500;
+   font-size: 20px;
+}
+.google{
+    top: 95%;
+    left: 5%;
+    width: 3cm;
+    height: 1.3cm;
+}
+.apple{
+    top: 95%;
+    left: 16%;
+    width: 3cm;
+    height: 1.3cm;
+}
+.goople{
+    position: static;
+    top: 20%;
+}
+.class3{
+    font-family: LetteraTextLL;
+    text-align: center;
+    margin-top: 23%;
+    font-weight: 500;
+    letter-spacing: 5px;
+}
+.images{
+     position: relative;
+     margin-top: 2cm;
+     margin-left: 1.7cm;
+}
+.sequioa{
+    width: 6cm;
+    height: 1cm;
+    left: 10%;
+    top: 150%;
+
+}
+.polychain{
+ width: 5cm;
+ height: 2.1cm;
+ left: 40%;
+}
+.consensys{
+width: 6.5cm;
+height: 1.7cm;
+left: 70%;
+}
+#text{
+    text-align: left;
+    margin-top: 6cm;
+}
+#id1{
+    color: #4643ee;
+    font-size: 20px;
+    font-weight: 650;
+}
+#id2{
+    color: #000;
+    font-size: 40px;
+    font-weight: 800;
+    font-family: TiemposHeadline;
+    line-height: 39px;
+}
+#id3,.benefit{
+    color: gray;
+    line-height: 35px;
+    font-weight: 400;
+    font-size: 18px;
+}
+.percent{
+    top: 176%;
+    width: 12cm;
+    height: 9cm;
+   
+}
+.text2{
+    text-align: center;
+    margin-top: 3cm;
+}
+.sign{
+    font-weight: bold;
+    font-size: 1cm;
+    font-family: TiemposHeadline;
+}
+
+
+.card1 {
+   
+    background-color: rgb(198, 245, 217);
+    
+}
+.label{
+    background-color:black;
+    border-width:.6cm;
+    border-radius: .1cm;
+    font-size: .5cm;
+    font-weight: bold;
+    padding: 6px;
+ 
+
+}
+.metal{
+ 
+ text-align: center;
+ text-align: right;
+
+}
+
+.card-custom {
+    overflow: hidden;
+    min-height: 450px;
+    box-shadow: 0 0 15px rgba(10, 10, 10, 0.3);
+  }
+  
+  .card-custom-img {
+    height: 200px;
+    min-height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-color: inherit;
+  }
+  
+ 
+  .card-custom-img::after {
+    position: absolute;
+    content: '';
+    top: 161px;
+    left: 0;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-top-width: 40px;
+    border-right-width: 0;
+    border-bottom-width: 0;
+    border-left-width: 545px;
+    border-left-width: calc(575px - 5vw);
+    border-top-color: transparent;
+    border-right-color: transparent;
+    border-bottom-color: transparent;
+    border-left-color: inherit;
+  }
+  .noselect {
+    -webkit-touch-callout: none; 
+      -webkit-user-select: none; 
+       -khtml-user-select: none;
+         -moz-user-select: none; 
+          -ms-user-select: none;
+              user-select: none; 
+  }
+   
+  .wrap-login100 {
+    width: 960px;
+    background: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+  
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 177px 130px 33px 95px;
+  }
+  input{
+    padding: 5px;
+    margin-bottom: 30px;
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #eee;
+    }  
